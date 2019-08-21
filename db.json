@@ -1,0 +1,71 @@
+{
+  "logs": [
+    {
+      "message": "internet connect down at room 505",
+      "attention": true,
+      "tech": "ken doe",
+      "date": "2019-08-21T14:27:29.590Z",
+      "id": 1
+    },
+    {
+      "message": "monitor cable missing at room 101",
+      "attention": true,
+      "tech": "harry undefined",
+      "date": "2019-08-21T14:28:00.088Z",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "message": "updating log ",
+      "attention": "",
+      "tech": "john doe",
+      "date": "2019-08-21T14:33:59.089Z"
+    },
+    {
+      "message": "broken chair-416",
+      "attention": "",
+      "tech": "ken doe",
+      "date": "2019-08-21T14:28:46.274Z",
+      "id": 4
+    },
+    {
+      "message": "loose cable ",
+      "attention": "",
+      "tech": "harry undefined",
+      "date": "2019-08-21T14:29:14.905Z",
+      "id": 5
+    },
+    {
+      "message": "projector not working at p303",
+      "attention": "",
+      "tech": "greg undefined",
+      "date": "2019-08-21T14:30:10.209Z",
+      "id": 6
+    }
+  ],
+  "techs": [
+    {
+      "id": 2,
+      "firstName": "ken",
+      "lastName": "doe"
+    },
+    {
+      "firstName": "greg",
+      "id": 3
+    },
+    {
+      "firstName": "harry",
+      "id": 4
+    },
+    {
+      "firstName": "ayappa",
+      "lastName": "krishnappa",
+      "id": 5
+    },
+    {
+      "firstName": "wasp",
+      "lastName": "white",
+      "id": 6
+    }
+  ]
+}
