@@ -1,18 +1,37 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### npm run dev -to run
 
 # IT-Logger--using-REACT-REDUX
 
+## App to add ,view ,update and delete -logs and technician 
 ![first ui](https://user-images.githubusercontent.com/22851920/63442705-91b3c580-c401-11e9-9e91-626c16f8f84e.PNG)
-![delete tech tost](https://user-images.githubusercontent.com/22851920/63442719-98423d00-c401-11e9-90c3-3eebdc69f2d6.PNG)
-![update tost](https://user-images.githubusercontent.com/22851920/63442720-98dad380-c401-11e9-82a0-df1ec5f5c0d5.PNG)
+
+## Adding log by entering message and select technician from drop down and to select to need attention or not ,with built in validation
 ![adding log](https://user-images.githubusercontent.com/22851920/63442721-98dad380-c401-11e9-9f42-ae9aff5ce1b5.PNG)
+
+## Tost for Adding Log 
 ![toast for adding](https://user-images.githubusercontent.com/22851920/63442723-98dad380-c401-11e9-89e4-e3600a0d9290.PNG)
+
+## Adding Technician ,with built in validiation
 ![add tech](https://user-images.githubusercontent.com/22851920/63442724-98dad380-c401-11e9-894d-247495181e12.PNG)
+
+## Tost for Adding Technician 
 ![add tech tost](https://user-images.githubusercontent.com/22851920/63442726-98dad380-c401-11e9-8b55-b0a41a9c8e5b.PNG)
+
+## View all Technician with deletion ability 
 ![tech-list](https://user-images.githubusercontent.com/22851920/63442727-98dad380-c401-11e9-886f-4102abb84837.PNG)
+
+## Tost for Deletion
+![delete tech tost](https://user-images.githubusercontent.com/22851920/63442719-98423d00-c401-11e9-90c3-3eebdc69f2d6.PNG)
+
+## Searching for logs which is dynamic as you type
 ![searching](https://user-images.githubusercontent.com/22851920/63442737-9d06f100-c401-11e9-9a79-0c787d064b34.PNG)
+
+## Updating logs with pre occupied fields 
 ![updating](https://user-images.githubusercontent.com/22851920/63442738-9d9f8780-c401-11e9-83e8-315a733015e7.PNG)
 
+## Tost for updating
+![update tost](https://user-images.githubusercontent.com/22851920/63442720-98dad380-c401-11e9-82a0-df1ec5f5c0d5.PNG)
 
 
 
