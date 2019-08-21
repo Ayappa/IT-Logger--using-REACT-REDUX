@@ -1,5 +1,27 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# IT-Logger--using-REACT-REDUX
+
+![first ui](https://user-images.githubusercontent.com/22851920/63442705-91b3c580-c401-11e9-9e91-626c16f8f84e.PNG)
+![delete tech tost](https://user-images.githubusercontent.com/22851920/63442719-98423d00-c401-11e9-90c3-3eebdc69f2d6.PNG)
+![update tost](https://user-images.githubusercontent.com/22851920/63442720-98dad380-c401-11e9-82a0-df1ec5f5c0d5.PNG)
+![adding log](https://user-images.githubusercontent.com/22851920/63442721-98dad380-c401-11e9-9f42-ae9aff5ce1b5.PNG)
+![toast for adding](https://user-images.githubusercontent.com/22851920/63442723-98dad380-c401-11e9-89e4-e3600a0d9290.PNG)
+![add tech](https://user-images.githubusercontent.com/22851920/63442724-98dad380-c401-11e9-894d-247495181e12.PNG)
+![add tech tost](https://user-images.githubusercontent.com/22851920/63442726-98dad380-c401-11e9-8b55-b0a41a9c8e5b.PNG)
+![tech-list](https://user-images.githubusercontent.com/22851920/63442727-98dad380-c401-11e9-886f-4102abb84837.PNG)
+![searching](https://user-images.githubusercontent.com/22851920/63442737-9d06f100-c401-11e9-9a79-0c787d064b34.PNG)
+![updating](https://user-images.githubusercontent.com/22851920/63442738-9d9f8780-c401-11e9-83e8-315a733015e7.PNG)
+
+
+
+
+
+
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
